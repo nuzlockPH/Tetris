@@ -1,0 +1,42 @@
+[
+{
+  "directory": "/storage/emulated/0/Documents/Cxxdroid/cpp/Tetris",
+  "command": "/data/user/0/ru.iiec.cxxdroid/files/bin/clang++  -I/storage/emulated/0/Documents/Cxxdroid/cpp/Tetris -I/ -I/storage/emulated/0/Documents/Cxxdroid/cpp/Tetris/include -I/storage/emulated/0/Documents/Cxxdroid/cpp/Tetris/abs -I/storage/emulated/0/Documents/Cxxdroid/cpp/Tetris/src -I/data/user/0/ru.iiec.cxxdroid/files/sysroot/include/SDL2 -Wall -std=c++2a -o CMakeFiles/Tetris.dir/src/Fonts.cpp.o -c /storage/emulated/0/Documents/Cxxdroid/cpp/Tetris/src/Fonts.cpp",
+  "file": "/storage/emulated/0/Documents/Cxxdroid/cpp/Tetris/src/Fonts.cpp"
+},
+{
+  "directory": "/storage/emulated/0/Documents/Cxxdroid/cpp/Tetris",
+  "command": "/data/user/0/ru.iiec.cxxdroid/files/bin/clang++  -I/storage/emulated/0/Documents/Cxxdroid/cpp/Tetris -I/ -I/storage/emulated/0/Documents/Cxxdroid/cpp/Tetris/include -I/storage/emulated/0/Documents/Cxxdroid/cpp/Tetris/abs -I/storage/emulated/0/Documents/Cxxdroid/cpp/Tetris/src -I/data/user/0/ru.iiec.cxxdroid/files/sysroot/include/SDL2 -Wall -std=c++2a -o CMakeFiles/Tetris.dir/src/Images.cpp.o -c /storage/emulated/0/Documents/Cxxdroid/cpp/Tetris/src/Images.cpp",
+  "file": "/storage/emulated/0/Documents/Cxxdroid/cpp/Tetris/src/Images.cpp"
+},
+{
+  "directory": "/storage/emulated/0/Documents/Cxxdroid/cpp/Tetris",
+  "command": "/data/user/0/ru.iiec.cxxdroid/files/bin/clang++  -I/storage/emulated/0/Documents/Cxxdroid/cpp/Tetris -I/ -I/storage/emulated/0/Documents/Cxxdroid/cpp/Tetris/include -I/storage/emulated/0/Documents/Cxxdroid/cpp/Tetris/abs -I/storage/emulated/0/Documents/Cxxdroid/cpp/Tetris/src -I/data/user/0/ru.iiec.cxxdroid/files/sysroot/include/SDL2 -Wall -std=c++2a -o CMakeFiles/Tetris.dir/src/SdlInit.cpp.o -c /storage/emulated/0/Documents/Cxxdroid/cpp/Tetris/src/SdlInit.cpp",
+  "file": "/storage/emulated/0/Documents/Cxxdroid/cpp/Tetris/src/SdlInit.cpp"
+},
+{
+  "directory": "/storage/emulated/0/Documents/Cxxdroid/cpp/Tetris",
+  "command": "/data/user/0/ru.iiec.cxxdroid/files/bin/clang++  -I/storage/emulated/0/Documents/Cxxdroid/cpp/Tetris -I/ -I/storage/emulated/0/Documents/Cxxdroid/cpp/Tetris/include -I/storage/emulated/0/Documents/Cxxdroid/cpp/Tetris/abs -I/storage/emulated/0/Documents/Cxxdroid/cpp/Tetris/src -I/data/user/0/ru.iiec.cxxdroid/files/sysroot/include/SDL2 -Wall -std=c++2a -o CMakeFiles/Tetris.dir/src/Start.cpp.o -c /storage/emulated/0/Documents/Cxxdroid/cpp/Tetris/src/Start.cpp",
+  "file": "/storage/emulated/0/Documents/Cxxdroid/cpp/Tetris/src/Start.cpp"
+},
+{
+  "directory": "/storage/emulated/0/Documents/Cxxdroid/cpp/Tetris",
+  "command": "/data/user/0/ru.iiec.cxxdroid/files/bin/clang++  -I/storage/emulated/0/Documents/Cxxdroid/cpp/Tetris -I/ -I/storage/emulated/0/Documents/Cxxdroid/cpp/Tetris/include -I/storage/emulated/0/Documents/Cxxdroid/cpp/Tetris/abs -I/storage/emulated/0/Documents/Cxxdroid/cpp/Tetris/src -I/data/user/0/ru.iiec.cxxdroid/files/sysroot/include/SDL2 -Wall -std=c++2a -o CMakeFiles/Tetris.dir/src/StartScreen.cpp.o -c /storage/emulated/0/Documents/Cxxdroid/cpp/Tetris/src/StartScreen.cpp",
+  "file": "/storage/emulated/0/Documents/Cxxdroid/cpp/Tetris/src/StartScreen.cpp"
+},
+{
+  "directory": "/storage/emulated/0/Documents/Cxxdroid/cpp/Tetris",
+  "command": "/data/user/0/ru.iiec.cxxdroid/files/bin/clang++  -I/storage/emulated/0/Documents/Cxxdroid/cpp/Tetris -I/ -I/storage/emulated/0/Documents/Cxxdroid/cpp/Tetris/include -I/storage/emulated/0/Documents/Cxxdroid/cpp/Tetris/abs -I/storage/emulated/0/Documents/Cxxdroid/cpp/Tetris/src -I/data/user/0/ru.iiec.cxxdroid/files/sysroot/include/SDL2 -Wall -std=c++2a -o CMakeFiles/Tetris.dir/src/abs/IDraw.cpp.o -c /storage/emulated/0/Documents/Cxxdroid/cpp/Tetris/src/abs/IDraw.cpp",
+  "file": "/storage/emulated/0/Documents/Cxxdroid/cpp/Tetris/src/abs/IDraw.cpp"
+},
+{
+  "directory": "/storage/emulated/0/Documents/Cxxdroid/cpp/Tetris",
+  "command": "/data/user/0/ru.iiec.cxxdroid/files/bin/clang++  -I/storage/emulated/0/Documents/Cxxdroid/cpp/Tetris -I/ -I/storage/emulated/0/Documents/Cxxdroid/cpp/Tetris/include -I/storage/emulated/0/Documents/Cxxdroid/cpp/Tetris/abs -I/storage/emulated/0/Documents/Cxxdroid/cpp/Tetris/src -I/data/user/0/ru.iiec.cxxdroid/files/sysroot/include/SDL2 -Wall -std=c++2a -o CMakeFiles/Tetris.dir/src/abs/Screen.cpp.o -c /storage/emulated/0/Documents/Cxxdroid/cpp/Tetris/src/abs/Screen.cpp",
+  "file": "/storage/emulated/0/Documents/Cxxdroid/cpp/Tetris/src/abs/Screen.cpp"
+},
+{
+  "directory": "/storage/emulated/0/Documents/Cxxdroid/cpp/Tetris",
+  "command": "/data/user/0/ru.iiec.cxxdroid/files/bin/clang++  -I/storage/emulated/0/Documents/Cxxdroid/cpp/Tetris -I/ -I/storage/emulated/0/Documents/Cxxdroid/cpp/Tetris/include -I/storage/emulated/0/Documents/Cxxdroid/cpp/Tetris/abs -I/storage/emulated/0/Documents/Cxxdroid/cpp/Tetris/src -I/data/user/0/ru.iiec.cxxdroid/files/sysroot/include/SDL2 -Wall -std=c++2a -o CMakeFiles/Tetris.dir/src/main.cpp.o -c /storage/emulated/0/Documents/Cxxdroid/cpp/Tetris/src/main.cpp",
+  "file": "/storage/emulated/0/Documents/Cxxdroid/cpp/Tetris/src/main.cpp"
+}
+]
